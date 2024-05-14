@@ -1,0 +1,141 @@
+Circuit: * D:\sharif-term4\project-electronic2-400101186\d (2).asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Node N003 is floating.
+
+Instance "mp3": Length shorter than recommended for a level 1 MOSFET.
+Instance "mp3": Width narrower than recommended for a level 1 MOSFET.
+Instance "mp6": Length shorter than recommended for a level 1 MOSFET.
+Instance "mp7": Length shorter than recommended for a level 1 MOSFET.
+Instance "mp8": Length shorter than recommended for a level 1 MOSFET.
+Instance "mp9": Length shorter than recommended for a level 1 MOSFET.
+Instance "mp10": Length shorter than recommended for a level 1 MOSFET.
+Instance "mp11": Length shorter than recommended for a level 1 MOSFET.
+Instance "mn1": Length shorter than recommended for a level 1 MOSFET.
+Instance "mn2": Length shorter than recommended for a level 1 MOSFET.
+Instance "mn3": Length shorter than recommended for a level 1 MOSFET.
+Instance "mn4": Length shorter than recommended for a level 1 MOSFET.
+Instance "mn5": Length shorter than recommended for a level 1 MOSFET.
+Instance "mn5": Width narrower than recommended for a level 1 MOSFET.
+Instance "mn6": Length shorter than recommended for a level 1 MOSFET.
+Instance "mn7": Length shorter than recommended for a level 1 MOSFET.
+Instance "mn7": Width narrower than recommended for a level 1 MOSFET.
+Instance "mn8": Length shorter than recommended for a level 1 MOSFET.
+Instance "mn8": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+Gmin = 1.5325e-05
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 24.4318%
+Source Step = 26.3258%
+Source Step = 28.2197%
+Source Step = 30.1136%
+Source Step = 32.0076%
+Source Step = 33.9015%
+vernier = 0.09375
+Source Step = 36.7424%
+Source Step = 39.5833%
+Source Step = 42.4242%
+Source Step = 45.2652%
+Source Step = 48.1061%
+vernier = 0.140625
+Source Step = 52.2254%
+Source Step = 56.4867%
+Source Step = 60.7481%
+Source Step = 65.0095%
+Source Step = 69.2708%
+vernier = 0.210938
+Source Step = 75.2367%
+Source Step = 77.6437%
+Source Step = 77.7436%
+Source Step = 77.8435%
+Source Step = 77.9434%
+Source Step = 78.0432%
+Source Step = 78.1431%
+vernier = 0.00494385
+Source Step = 78.2929%
+Source Step = 78.4428%
+Source Step = 78.5926%
+Source Step = 78.7424%
+Source Step = 78.8922%
+vernier = 0.00741577
+Source Step = 79.1094%
+Source Step = 79.3341%
+Source Step = 79.5589%
+Source Step = 79.7836%
+Source Step = 80.0083%
+vernier = 0.0111237
+Source Step = 80.3229%
+Source Step = 80.66%
+Source Step = 80.9971%
+Source Step = 81.3342%
+Source Step = 81.6712%
+vernier = 0.0166855
+Source Step = 82.1263%
+Source Step = 82.6319%
+Source Step = 83.1375%
+Source Step = 83.6432%
+Source Step = 84.1488%
+vernier = 0.0250282
+Source Step = 84.8061%
+Source Step = 85.5645%
+Source Step = 86.3229%
+Source Step = 87.0814%
+Source Step = 87.8398%
+vernier = 0.0375423
+Source Step = 88.7878%
+Source Step = 89.9255%
+Source Step = 91.0631%
+Source Step = 92.2008%
+Source Step = 93.3384%
+vernier = 0.0563135
+Source Step = 94.7036%
+Source Step = 96.4101%
+Source Step = 98.1166%
+Source Step = 99.823%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Sun Jul  2 16:37:46 2023
+Total elapsed time: 10.761 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 885793
+traniter = 881596
+tranpoints = 290931
+accept = 187066
+rejected = 103865
+matrix size = 58
+fillins = 144
+solver = Normal
+Avg thread counts: 4.0/3.0/1.0/1.0
+Matrix Compiler1: 14.17 KB object code size  2.4/1.2/[0.8]
+Matrix Compiler2: 8.49 KB object code size  0.6/0.7/[0.3]
+
